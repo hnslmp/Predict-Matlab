@@ -1,6 +1,3 @@
-%Hansel Matthew
-%1806194914
-
 %import data
 load('survey')
 
